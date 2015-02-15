@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"h",
+				"highScorePos"
+			],
+			[
+				"hi",
+				"highScore"
+			],
+			[
+				"pr",
+				"printAndGetHighScore"
+			],
+			[
+				"words",
+				"words3"
+			],
+			[
+				"word",
+				"words1"
+			],
+			[
+				"l",
+				"location1"
+			],
+			[
+				"rn",
+				"randomLoc"
+			],
+			[
+				"lo",
+				"location2"
+			],
+			[
+				"g",
+				"guess"
+			],
+			[
+				"loc",
+				"location1"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"str",
+				"strtoupper"
+			],
+			[
+				"str_",
+				"str_split"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"the_",
+				"the_permalink"
+			],
+			[
+				"post-offre",
+				"post-offre-title"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"get_po",
+				"get_post_meta"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"show",
+				"show_ui"
+			],
+			[
+				"hea",
+				"header-menu-bloc"
+			],
+			[
+				"slider",
+				"slider-container"
+			],
+			[
+				"ccc",
+				"c4c4c4"
+			],
+			[
+				"dernie",
+				"dernier-article-thumb"
+			],
+			[
+				"dernier",
+				"dernier-article-content"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"post",
+				"post-presta-region"
+			],
+			[
+				"pos",
+				"post-infobox"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"selec",
+				"selection-race-related-posts"
+			],
+			[
+				"sele",
+				"selection-race-ad"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"focu",
+				"focus-post"
+			],
+			[
+				"focus-p",
+				"focus-post-desc"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ta",
+				"ta-c	text-align: center;"
+			],
+			[
+				"random",
+				"random-articles"
+			],
+			[
+				"sear",
+				"searchbox-home"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"denier",
+				"derniers-articles"
+			],
+			[
+				"conten",
+				"content-home"
+			],
+			[
+				"selection-pres",
+				"selection-prestataire-desc"
+			],
+			[
+				"selection",
+				"selection-prestataires"
+			],
+			[
+				"sel",
+				"selection-race"
+			],
+			[
+				"rela",
+				"related-posts"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"po",
+				"post-infobox"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"re",
+				"resize	jQuery"
+			],
+			[
+				"el",
+				"getElementById	jsDOM"
+			],
+			[
+				"mail",
+				"mail_message"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"marginlef",
+				"margin-left:   (property)"
+			],
+			[
+				"border-rd",
+				"border-top-right-radius"
+			],
+			[
+				"B",
+				"BASE_URL"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"studio",
+				"studio"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sha",
+				"text-shadow:   (property)"
+			],
+			[
+				"webkit-tr",
+				"-webkit-transition:   (property)"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"p",
+				"products"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"_",
+				"_SERVER  (variable)"
+			],
+			[
+				"variab",
+				"variableext"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font-f",
+				"font-family:   (property)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"PA",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"SN",
+				"Snippet: The Loop"
+			],
+			[
+				"PACK",
+				"Package Control: Install Package"
+			],
+			[
+				"can",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 52.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/samuelbourdon/Railstut/toy_app/app/controllers/application_controller.rb",
+		"/Users/samuelbourdon/Railstut/hello_app/Gemfile",
+		"/Users/samuelbourdon/Railstut/hello_app/app/controllers/application_controller.rb",
+		"/Users/samuelbourdon/Railstut/hello_app/config/routes.rb",
+		"/Users/samuelbourdon/Desktop/hf-javascript/battleship/Auto-ma-tic.js",
+		"/Users/samuelbourdon/Desktop/hf-javascript/battleship/phrase.js",
+		"/Users/samuelbourdon/Desktop/hf-javascript/battleship/bubble.js",
+		"/Users/samuelbourdon/Desktop/hf-javascript/battleship/dogs.js",
+		"/Users/samuelbourdon/Desktop/hf-javascript/battleship/battleship.js",
+		"/Users/samuelbourdon/Dropbox/htdocs/wordpresstest/wp-content/themes/dupashop/functions.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/wordpresstest/wp-content/themes/dupashop/single-bonplan.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/wordpresstest/wp-content/themes/dupashop/archive-bonplan.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/wordpresstest/.ovhconfig",
+		"/Users/samuelbourdon/Dropbox/htdocs/wordpresstest/wp-content/themes/dupashop/single.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/wordpresstest/wp-content/themes/dupashop/bonplan.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/dupashop/wp-content/themes/dupashop/functions.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/dupashop/wp-content/themes/dupashop/single-lesbonsplans.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/wordpresstest/wp-content/themes/dupashop/loop-single.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/dupashop/wp-config.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/euski/template-presta-detail.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/mesha/wp-content/themes/mesha/footer.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/mesha/wp-content/themes/mesha/sidebar.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/mesha/wp-content/themes/mesha/page.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/mesha/wp-content/themes/mesha/single.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/mesha/wp-content/themes/mesha/archive.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/mesha/wp-content/themes/mesha/index.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/euski/inc/inc-header.bak.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/euski/inc/inc-header.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/euski/template.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/euski/css/01.css",
+		"/Users/samuelbourdon/Dropbox/htdocs/euski/css/Wordpresscontentmanager.txt",
+		"/Users/samuelbourdon/Dropbox/htdocs/euski/template-races-detail.htm",
+		"/Users/samuelbourdon/Dropbox/htdocs/euski/template.htm",
+		"/Users/samuelbourdon/Dropbox/reference-jquery.htm",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/inc/contact.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/mail/mail.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/js/moveit.js",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/inc/header.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/michel.sublime-project",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/.htaccess",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/inc/mail.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/studio/studio.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/my-simple-gallery/my-simple-gallery.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/inc/gallery-script.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/css/jquery.lightbox.css",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/js/jquery.lightbox.js",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/idpas",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/services/services.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/simplegallery/my-simple-gallery/my-simple-gallery.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/simplegallery/index.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/inc/footer.php",
+		"/Users/samuelbourdon/Dropbox/htdocs/photomicheldubois/inc/config.php",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/treehouse/javascript.html",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/treehouse/myscript.js",
+		"/Users/samuelbourdon/Downloads/PHPMailer_5.2.1/test/testemail.php",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/treehouse/stage1/index.html",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/treehouse/stage1/index.htm",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/php-exercices/chap1/main.php",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/php-exercices/chap1/footer.inc.php",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/php-exercices/chap1/body.html",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/php-exercices/chap1/body.inc.php",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/php-exercices/chap1/header.inc.php",
+		"/Users/samuelbourdon/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/php-exercices/info.php",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/php-exercices/test1.php",
+		"/Users/samuelbourdon/Library/Application Support/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/crocss/crocss/crocss.css",
+		"/Users/samuelbourdon/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/crocss/crocss/verticalrythm.html",
+		"/Users/samuelbourdon/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/samuelbourdon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/samuelbourdon/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"clear",
+			"align",
+			"categ",
+			"url",
+			"main-menu li",
+			"main-menu",
+			"main",
+			"logo",
+			"slider",
+			"related",
+			"race",
+			"cell",
+			"focus",
+			"width",
+			"dotted",
+			"focus-block",
+			"focus",
+			"cells",
+			"w4",
+			"dernier",
+			"btn",
+			"==o",
+			"searchbg",
+			"z-index",
+			"txtcenter",
+			"sep",
+			"header",
+			"ul",
+			"hover",
+			"hr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 269.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true
+}
